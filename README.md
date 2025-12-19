@@ -6,7 +6,7 @@ Files created:
 - `index.html` — Home page with hero and features
 - `explore-cars.html` — Listings (New / Used / Certified)
 - `shop-buy.html` — Categories and brands
-- `about-us.html` — About (Uduka John)
+- `about-us.html` — About
 - `contact.html` — Contact and locations with form and map embed
 - `assets/css/styles.css` — Core styles
 - `assets/js/main.js` — Minimal JS for mobile nav toggles
@@ -32,3 +32,4 @@ Next steps I can do for you
 - Create a small admin demo to add/remove cars (static JSON)
 
 Tell me which next step you'd like me to implement.
+
